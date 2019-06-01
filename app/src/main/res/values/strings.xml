@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="abaixo_peso_1">
+       Abaixo do Peso I.
+    </string>
+    <string name="abaixo_peso">
+       Abaixo do Peso.
+    </string>
+    <string name="peso_normal">
+       Peso normal.
+    </string>
+    <string name="acima_peso">
+       Acima do Peso.
+    </string>
+    <string name="obesidade_2">
+       Obesidade Grau II.
+    </string>
+    <string name="obesidade_3">
+       Obesidade Grau III.
+    </string>
+
+
+    <string name="desc_abaixo_peso_1">
+        Anorexia, bulimia, osteoporose e alto consumo de massa muscular.
+    </string>
+    <string name="desc_abaixo_peso">
+        Transtornos digestivos, debilidade, fadiga crônica, stress, ansiedade e difusão das hormonas.
+    </string>
+    <string name="desc_peso_normal">
+        Estado normal, bom nível de energia, vitalidade e boa condição física. Mantenha seu peso e IMC.
+    </string>
+    <string name="desc_acima_peso">
+        Fadiga, problemas digestivos, problemas circulatórios, má circulação e varizes.
+    </string>
+    <string name="desc_obesidade_2">
+        Diabetes, angina de peito, infarto, trombo flebites, arterosclerose, embolias, alterações menstruais.
+    </string>
+    <string name="desc_obesidade_3">
+        Falta de ar, apnéia, sonolência, trombone pulmonar, úlceras varicosas, cancro de cólon, refluxo esofágico, discriminação social, laboral e sexual.
+    </string>
+
+
+</resources>
